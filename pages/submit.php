@@ -1,0 +1,18 @@
+<?php
+$email =$_POST['email'];
+$password =$_POST['password'];
+$City =$_POST['City'];
+$sign1 =$_POST['sign1'];
+$sign2 =$_POST['sign2'];
+$sign3 =$_POST['sign3']; 
+
+echo 'email:' .$email.'<br>';
+echo 'password:' .$password.'<br>';
+echo 'City:' .$City.'<br>';
+echo 'sign1:' .$sign1.'<br>';
+echo 'sign2' .$sign2.'<br>';
+echo 'sign3:' .$sign3.'<br>';
+
+
+
+?>
